@@ -10,6 +10,9 @@ std::vector<match> matchList;
 std::vector<match> newGamesPlayed;
 
 PopulatePlayers(playerList, "players.csv");
+
+
+
 PopulateMatches(matchList, "matches.csv");
 //PopulateMatches(newGamesPlayed, "newMatches.csv");
 
