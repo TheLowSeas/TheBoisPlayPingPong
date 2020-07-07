@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/run.dir/src/game.cpp.o CMakeFiles/run.dir/src/main.cpp.o CMakeFiles/run.dir/src/player.cpp.o CMakeFiles/run.dir/src/readIn.cpp.o  -o run 
