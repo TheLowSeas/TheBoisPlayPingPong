@@ -1,0 +1,20 @@
+h1{
+    background: #b3b3b3;
+    font-size: 150%;
+}
+p{
+    color: #6de8e6;
+}
+span{
+    color: blue;
+}
+
+div{
+    color: olivedrab;
+    background-color: rgb(43, 46, 40);
+    height: 120px;
+    width: 90%;
+    border: solid;
+    border-width: 30px 15px;
+    border-color: orange
+}
